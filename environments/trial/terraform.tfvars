@@ -1,0 +1,8 @@
+resource_group_name = "DMAP_SaaS"
+location            = "East US"
+vm_name             = "dmapsaasvm"
+acr_login_server    = "newtacr.azurecr.io"
+image_name          = "nginx:latest"
+admin_username      = "azureuser"
+admin_password      = "dmapinfra@12345"
+vm_size             = "Standard_DS3_v2"
