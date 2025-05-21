@@ -1,4 +1,4 @@
-# 2-Day Azure DMAP SaaS Trial Offering
+# 2-Day Azure SaaS Trial Offering
 
 ## Introduction
 
