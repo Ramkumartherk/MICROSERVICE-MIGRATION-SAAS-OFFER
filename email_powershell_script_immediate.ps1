@@ -1,7 +1,7 @@
 # Define email details
-$from = "ramkumars@newtglobalcorp.com"
-$to = "kirans@newtglobalcorp.com"
-$cc = @("sandeepr@newtglobalcorp.com","jayakarthid@newtglobalcorp.com")
+$from = ""
+$to = ""
+$cc = @("","")
 $smtpServer = "smtp.office365.com"
 $smtpPort = 587
 
