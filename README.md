@@ -34,7 +34,7 @@ project/
 ### Core Components
 
 ### 1. Azure Virtual Machine
-- **Purpose**: Hosts the DMAP Application.
+- **Purpose**: Hosts the  Application.
 - **Configuration**: Standard_D2s_v3 VM with a dedicated Virtual Network and Subnet.
 - **Security**: Network Security Group with inbound rules for HTTPS and SSH.
 - **Installation**: DMAP, Python, and Postgres.
